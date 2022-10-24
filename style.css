@@ -1,32 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 :root {
-  --background-primary-color: white;
-  --text-primary-color: #3998fe;
-  --text-secondary-color: #1dadff;
-  --text-tertiary-color: #8dd0ff;
-  --text-quaternary-color: #bbe2ff;
-  --text-hover-color: #3e8fe5;
-  --header-primary-color: #1dadff;
-  --paragraph-primary-color: #8a8a8a;
-  --paragraph-secondary-color: #bdbdbd;
-  --title-primary-color: black;
-  --navbar-primary-background: #f6f6f6;
-  --navbar-border-color: #f0f0f0;
-  --button-disabled-color: #7cbbfe;
-  --focus-primary-color: #81cafe;
-  --input-primary-color: #fcfcfc;
-  --input-secondary-color: #f9f9f9;
-  --input-border-color: #c9c9c9;
-  --input-disabled-color: #d6d6d6;
-  --slider-primary-color: #cccccc;
-  --slider-secondary-color: #454545;
-  --slider-tertiary-color: #c4c4c4;
-  --code-primary-color: #ff6600;
-  --scrollbar-primary-color: #cfcfcf;
-}
-
-.dark-theme {
   --background-primary-color: #061828;
   --text-primary-color: #6002ee;
   --text-secondary-color: #9965d4;
