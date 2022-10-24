@@ -191,7 +191,7 @@ svg {
   margin-right: 15px;
 }
 
-button {
+a {
   font-family: 'Roboto', sans-serif;
   background-color: var(--text-primary-color);
   color: white;
