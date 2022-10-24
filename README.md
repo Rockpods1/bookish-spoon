@@ -2,4 +2,6 @@
 index.html and idea from legends
 hevilly inspired by legends
 for my district pls dont advertise
-# i see you
+# Credits
+Legends for the idea
+Hacker40 for the CSS
