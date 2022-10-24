@@ -1,2 +1,5 @@
 # bookish-spoon
-heavilly inspired from legends game hub lite
+index.html and idea from legends
+hevilly inspired by legends
+for my district pls dont advertise
+# i see you
